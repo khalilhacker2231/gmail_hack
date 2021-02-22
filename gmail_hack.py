@@ -1,5 +1,5 @@
 # Program: Gmail Dictionary Attack v2
-
+Import colorama
 print"Join TELEGRAM CHANNEL"
 #Information
 print "Author: KHALIL HUSSAINI"
